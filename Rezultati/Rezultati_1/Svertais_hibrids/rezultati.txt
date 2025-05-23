@@ -1,0 +1,24 @@
+u1:
+  – SVD       MAE=0.7802  RMSE=0.9425  Precision=0.4321  Coverage=0.7423
+  – ItemKNN   MAE=0.8190  RMSE=0.9987  Precision=0.4198  Coverage=0.8651
+  – Hybrid    MAE=0.7881  RMSE=0.9574  Precision=0.4350  Coverage=0.8012
+
+u2:
+  – SVD       MAE=0.7743  RMSE=0.9321  Precision=0.4260  Coverage=0.7385
+  – ItemKNN   MAE=0.8145  RMSE=0.9912  Precision=0.4123  Coverage=0.8612
+  – Hybrid    MAE=0.7852  RMSE=0.9498  Precision=0.4305  Coverage=0.7968
+
+u3:
+  – SVD       MAE=0.7820  RMSE=0.9453  Precision=0.4295  Coverage=0.7441
+  – ItemKNN   MAE=0.8211  RMSE=1.0023  Precision=0.4167  Coverage=0.8667
+  – Hybrid    MAE=0.7897  RMSE=0.9601  Precision=0.4332  Coverage=0.8035
+
+u4:
+  – SVD       MAE=0.7768  RMSE=0.9368  Precision=0.4278  Coverage=0.7398
+  – ItemKNN   MAE=0.8172  RMSE=0.9950  Precision=0.4150  Coverage=0.8630
+  – Hybrid    MAE=0.7870  RMSE=0.9542  Precision=0.4328  Coverage=0.7982
+
+u5:
+  – SVD       MAE=0.7795  RMSE=0.9402  Precision=0.4282  Coverage=0.7410
+  – ItemKNN   MAE=0.8198  RMSE=0.9980  Precision=0.4159  Coverage=0.8645
+  – Hybrid    MAE=0.7885  RMSE=0.9579  Precision=0.4340  Coverage=0.8006
